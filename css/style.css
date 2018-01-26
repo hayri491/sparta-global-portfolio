@@ -1,3 +1,17 @@
+body {
+    background: #bcb2c2;
+    background-image: url("../images/SpartaGlobal.png");
+    /*  background-image: url("../images/SpartaGlobalTrans.png");*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
 nav.navbar-default {
   background:#012C38
+}
+
+.navbar.active {
+
 }
